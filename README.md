@@ -26,7 +26,7 @@ I'm Wendyle — a developer from **Cebu City, Philippines**, passionate about:
 - ⚙️ Solving alignment, spacing, and styling issues  
 
 ### 🔧 Other Experience
-- 💻 Technical Support / IT Support  / Subject Matter Expert
+- 💻 Technical Support / IT Support / Subject Matter Expert  
 - 🌐 WordPress Development & front-end styling  
 - 📈 SEO research, optimization, and content structuring  
 
@@ -41,6 +41,21 @@ I'm Wendyle — a developer from **Cebu City, Philippines**, passionate about:
   <img src="https://skillicons.dev/icons?i=wordpress" height="55" />
   <img src="https://skillicons.dev/icons?i=vscode,github,git,chrome" height="55" />
 </p>
+
+---
+
+## 💻 Projects
+
+Here are some of my projects, showcasing my front-end skills and passion for web development:
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **Resume Website** | My personal resume built in HTML/CSS | [View Project](https://wendyle18.github.io/resume/) |
+| **Legendary Calculator** | Popular JavaScript calculator project for students learning web development | [View Project](https://wendyle18.github.io/First-JS/) |
+| **Student Login Page** | Login page feature project for students | [View Project](https://wendyle18.github.io/feature-A/) |
+| **Basic Ticketing Layout** | Simple ticketing page layout | [View Project](https://wendyle18.github.io/Basic-Ticketing-Look/) |
+| **For You** | Website dedicated to my love of my life | [View Project](https://wendyle18.github.io/For-You/) |
+| **Eyeglass** | Another personal project website for my love of my life | [View Project](https://wendyle18.github.io/Eyeglass/) |
 
 ---
 
