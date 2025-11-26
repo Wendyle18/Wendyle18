@@ -1,32 +1,57 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Hi, I'm Wendyle Christian Seno
-<p align="center"> <img src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" width="700" alt="animated banner"/> </p> <p align="center"> <b>UGC Customization Developer • Front-end Developer • SEO Specialist • Technical Support</b><br> Cebu City, Philippines </p>
+<h1 align="center">👋 Hi, I'm <strong>Wendyle Christian Seno</strong></h1>
 
-Welcome to my GitHub! I’m Wendyle, a developer and tech professional from Cebu City, Philippines, passionate about building clean user interfaces, customizing web components, and supporting brands with reliable technical solutions.
+<p align="center">
+  UGC Customization Developer • Front-end Developer • SEO Specialist • Technical Support  
+  <br/>
+  <em>Focused on clean UI, customization, and building seamless user experiences.</em>
+</p>
 
-🎨 About Me
+---
 
-I'm Wendyle—a developer with a passion for creating clean interfaces, replicating UI designs, and customizing user-generated content widgets.
+## 🌟 About Me
 
-💼 Current Role: UGC Customization Developer @ Yotpo
+I'm Wendyle — a developer from **Cebu City, Philippines**, passionate about:
 
-CSS-based widget & email customization
+- 🎨 Clean, responsive UI  
+- 🧩 Component customization & widget styling  
+- 🔍 Precise CSS replication of design mockups  
+- 🔧 Fixing front-end UI issues  
+- 🛠 Supporting brands with reliable technical solutions  
 
-Outlook-compatible email styling
+### 💼 My Role at Yotpo (UGC Customization Developer)
+- 🎨 CSS-based widget & email customization  
+- 🧩 Recreating Figma/mockup components using pure CSS  
+- 🔍 Inspecting & modifying UI via DevTools  
+- 📬 Email rendering fixes across **Outlook, Gmail, Yahoo**, etc.  
+- ⚙️ Solving alignment, spacing, and styling issues  
 
-UI replication using DevTools
+### 🔧 Other Experience
+- 💻 Technical Support / IT Support  
+- 🌐 WordPress Development & front-end styling  
+- 📈 SEO research, optimization, and content structuring  
 
-Solving front-end display issues
+> 📝 **Heads up:** Currently preparing for a **career shift into Software QA**, building skills in testing, documentation, and workflows.
 
-📌 Also experienced in:
+---
 
-Technical & IT Support
+## 🛠 Tech Stack & Tools
 
-WordPress Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js" height="55" />  
+  <img src="https://skillicons.dev/icons?i=wordpress" height="55" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,chrome" height="55" />
+</p>
 
-SEO Research & Content Optimization
+---
 
-🔄 Currently preparing for a shift into Software QA. Building skills in manual testing, documentation, and real testing workflows.
-📫 Contact Me
-  📩 Email: senowendyle793@gmail.com
-  🔗 LinkedIn:www.linkedin.com/in/wendylechristianseno
-  📍 Cebu City, Philippines
+## 📫 Contact Me
+
+- 📩 **Email:** **senowendyle793@gmail.com**  
+- 🔗 **LinkedIn:** **www.linkedin.com/in/wendylechristianseno**  
+- 📍 **Location:** Cebu City, Philippines  
+
+---
+
+<p align="center">
+  <em>Thanks for visiting! Let's build something amazing together 💻✨</em>
+</p>
