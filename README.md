@@ -39,7 +39,7 @@ I'm Wendyle — a developer from **Cebu City, Philippines**, passionate about:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js" height="55" />  
   <img src="https://skillicons.dev/icons?i=wordpress" height="55" />
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,chrome" height="55" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,chrome" height="55" />
 </p>
 
 ---
