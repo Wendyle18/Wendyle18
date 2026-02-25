@@ -4,13 +4,15 @@
   UGC Customization Developer • Subject Matter Expert • SEO Specialist • Technical Support  
   <br/>
   <em>Focused on clean UI, customization, and building seamless user experiences.</em>
+  <br/>
+  <em>👉 Tech Portfolio: https://my-techportfolio.vercel.app/</em>
 </p>
 
 ---
 
 ## 🌟 About Me
 
-I'm Wendyle — a developer from **Cebu City, Philippines**, passionate about:
+I'm Wendyle — a customization developer | Technical Support | SaaS Support Especialist from **Cebu City, Philippines**, passionate about:
 
 - 🎨 Clean, responsive UI  
 - 🧩 Component customization & widget styling  
