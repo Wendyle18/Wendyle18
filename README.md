@@ -1,74 +1,88 @@
-<h1 align="center">👋 Hi, I'm <strong>Wendyle Christian Seno</strong></h1>
+<h1 align="center">Hi, I'm Wendyle Seno 👋</h1>
 
 <p align="center">
-  UGC Customization Developer • Subject Matter Expert • SEO Specialist • Technical Support  
-  <br/>
-  <em>Focused on clean UI, customization, and building seamless user experiences.</em>
-  <br/>
-  <em>👉 Tech Portfolio: https://my-techportfolio.vercel.app/</em>
+  <strong>SaaS Technical Support Engineer</strong><br>
+  Shopify & e-commerce troubleshooting · API investigation · Front-end customization · Support escalation
+</p>
+
+<p align="center">
+  <a href="https://www.wendylechristianseno.com/">Technical Support Portfolio</a> ·
+  <a href="https://www.wendylechristianseno.com/#experience">Experience</a> ·
+  <a href="https://www.wendylechristianseno.com/#projects">Case Studies</a> ·
+  <a href="https://www.linkedin.com/in/wendylechristianseno/">LinkedIn</a>
 </p>
 
 ---
 
-## 🌟 About Me
+## About me
 
-I'm Wendyle — a customization developer | Technical Support | SaaS Support Especialist from **Cebu City, Philippines**, passionate about:
+I help SaaS and e-commerce teams diagnose customer-facing issues across Shopify, BigCommerce, WordPress, and browser-based integrations. My work combines structured troubleshooting, clear customer communication, technical escalation, documentation, and practical HTML, CSS, and JavaScript solutions.
 
-- 🎨 Clean, responsive UI  
-- 🧩 Component customization & widget styling  
-- 🔍 Precise CSS replication of design mockups  
-- 🔧 Fixing front-end UI issues  
-- 🛠 Supporting brands with reliable technical solutions  
+- More than **2 years of SaaS support experience**
+- More than **3,000 support tickets resolved**
+- Experience across **Shopify, BigCommerce, and WordPress**
+- Background in technical support, subject-matter expertise, UGC customization, and IT systems support
+- Based in the **Philippines** and open to remote opportunities
 
-### 💼 My Role at Yotpo (UGC Customization Developer)
-- 🎨 CSS-based widget & email customization  
-- 🧩 Recreating Figma/mockup components using pure CSS  
-- 🔍 Inspecting & modifying UI via DevTools  
-- 📬 Email rendering fixes across **Outlook, Gmail, Yahoo**, etc.  
-- ⚙️ Solving alignment, spacing, and styling issues  
+I currently work as a freelance Technical Support Engineer supporting SaaS applications for e-commerce teams. Previously at Yotpo, I progressed through Technical Support Engineer, Subject Matter Expert, and UGC Customizations Developer roles.
 
-### 🔧 Other Experience
-- 💻 Technical Support / IT Support / Subject Matter Expert  
-- 🌐 WordPress Development & front-end styling  
-- 📈 SEO research, optimization, and content structuring  
+[Explore my full technical support experience →](https://www.wendylechristianseno.com/#experience)
 
-> 📝 **Heads up:** Currently preparing for a **career shift into Software QA**, building skills in testing, documentation, and workflows.
+## Featured case studies
 
----
+| Case study | What it demonstrates |
+| --- | --- |
+| [Preorder Campaign Widgets](https://www.wendylechristianseno.com/case-studies/preorder-campaign-widgets/) | Responsive Shopify storefront widgets with variant-aware pricing, campaign data, theme integration, and clear preorder messaging. |
+| [Essential Apps Support Guide v2](https://www.wendylechristianseno.com/case-studies/essential-apps-support-guide/) | A browser-based support knowledge system for investigation checklists, reusable snippets, reply templates, and engineering handoffs. |
 
-## 🛠 Tech Stack & Tools
+[View the complete technical support portfolio →](https://www.wendylechristianseno.com/)
+
+## How I work
+
+1. Reproduce the reported behavior.
+2. Gather the account, browser, theme, app, API, and configuration context.
+3. Isolate the root cause by comparing working and failing states.
+4. Resolve the issue or provide a practical workaround.
+5. Escalate with reproducible evidence when engineering input is required.
+6. Document recurring solutions for faster future support.
+
+## Technical stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" height="55" />  
-  <img src="https://skillicons.dev/icons?i=wordpress" height="55" />
-  <img src="https://skillicons.dev/icons?i=vscode,github,chrome" height="55" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,wordpress,vscode,github" height="52" alt="HTML, CSS, JavaScript, WordPress, VS Code, and GitHub">
 </p>
 
----
+| Area | Tools and capabilities |
+| --- | --- |
+| Front end | HTML, CSS, JavaScript, responsive design, browser DevTools, UI debugging |
+| E-commerce | Shopify, BigCommerce, WordPress, Yotpo, Essential Apps |
+| Support | API troubleshooting, Salesforce, Savio, live chat, escalation handling, technical documentation |
+| Systems | Windows, networking fundamentals, hardware troubleshooting, system administration |
 
-## 💻 Projects
+[See my complete skills and tools →](https://www.wendylechristianseno.com/#skills)
 
-Here are some of my projects, showcasing my front-end skills and passion for web development:
+## Earlier web projects
 
-| Project | Description | Link |
-|---------|-------------|------|
-| **Resume Website** | My personal resume built in HTML/CSS | [View Project](https://wendyle18.github.io/resume/) |
-| **Legendary Calculator** | Popular JavaScript calculator project for students learning web development | [View Project](https://wendyle18.github.io/First-JS/) |
-| **Student Login Page** | Login page feature project for students | [View Project](https://wendyle18.github.io/feature-A/) |
-| **Basic Ticketing Layout** | Simple ticketing page layout | [View Project](https://wendyle18.github.io/Basic-Ticketing-Look/) |
-| **For You** | Website dedicated to my love of my life | [View Project](https://wendyle18.github.io/For-You/) |
-| **Eyeglass** | Another personal project website for my love of my life | [View Project](https://wendyle18.github.io/Eyeglass/) |
+<details>
+<summary>View front-end practice projects</summary>
 
----
+| Project | Description | Live page |
+| --- | --- | --- |
+| Resume Website | Personal resume built with HTML and CSS. | [Open](https://wendyle18.github.io/resume/) |
+| JavaScript Calculator | Interactive calculator built while learning JavaScript fundamentals. | [Open](https://wendyle18.github.io/First-JS/) |
+| EES Login Interface | Student login interface and front-end layout exercise. | [Open](https://wendyle18.github.io/feature-A/) |
+| SysGuard Dashboard | Support ticketing and system-monitoring dashboard layout. | [Open](https://wendyle18.github.io/Basic-Ticketing-Look/) |
 
-## 📫 Contact Me
+</details>
 
-- 📩 **Email:** **senowendyle793@gmail.com**  
-- 🔗 **LinkedIn:** **www.linkedin.com/in/wendylechristianseno**  
-- 📍 **Location:** Cebu City, Philippines  
+## Contact
 
----
+- **Portfolio:** [wendylechristianseno.com](https://www.wendylechristianseno.com/)
+- **Email:** [senowendyle793@gmail.com](mailto:senowendyle793@gmail.com?subject=Technical%20Support%20Opportunity)
+- **LinkedIn:** [linkedin.com/in/wendylechristianseno](https://www.linkedin.com/in/wendylechristianseno/)
+- **Location:** Philippines · Remote-ready
 
 <p align="center">
-  <em>Thanks for visiting! Let's build something amazing together 💻✨</em>
+  <strong>Building a SaaS or e-commerce support team?</strong><br>
+  <a href="https://www.wendylechristianseno.com/#contact">Let's work together →</a>
 </p>
