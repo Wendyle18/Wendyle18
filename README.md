@@ -5,7 +5,7 @@
   <br/>
   <em>Focused on clean UI, customization, and building seamless user experiences.</em>
   <br/>
-  <em>👉 Tech Portfolio: https://my-techportfolio.vercel.app/</em>
+  <em>👉 Tech Portfolio: www.wendylechristianseno.com</em>
 </p>
 
 ---
@@ -32,8 +32,6 @@ I'm Wendyle — a customization developer | Technical Support | SaaS Support Esp
 - 🌐 WordPress Development & front-end styling  
 - 📈 SEO research, optimization, and content structuring  
 
-> 📝 **Heads up:** Currently preparing for a **career shift into Software QA**, building skills in testing, documentation, and workflows.
-
 ---
 
 ## 🛠 Tech Stack & Tools
@@ -56,9 +54,6 @@ Here are some of my projects, showcasing my front-end skills and passion for web
 | **Legendary Calculator** | Popular JavaScript calculator project for students learning web development | [View Project](https://wendyle18.github.io/First-JS/) |
 | **Student Login Page** | Login page feature project for students | [View Project](https://wendyle18.github.io/feature-A/) |
 | **Basic Ticketing Layout** | Simple ticketing page layout | [View Project](https://wendyle18.github.io/Basic-Ticketing-Look/) |
-| **For You** | Website dedicated to my love of my life | [View Project](https://wendyle18.github.io/For-You/) |
-| **Eyeglass** | Another personal project website for my love of my life | [View Project](https://wendyle18.github.io/Eyeglass/) |
-
 ---
 
 ## 📫 Contact Me
