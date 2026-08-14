@@ -36,6 +36,7 @@ I currently work as a freelance Technical Support Engineer supporting SaaS appli
 | [Essential Apps Support Guide v2](https://www.wendylechristianseno.com/case-studies/essential-apps-support-guide/) | A browser-based support knowledge system for investigation checklists, reusable snippets, reply templates, and engineering handoffs. |
 
 [View the complete technical support portfolio →](https://www.wendylechristianseno.com/)
+---
 
 ## How I work
 
@@ -72,6 +73,13 @@ I currently work as a freelance Technical Support Engineer supporting SaaS appli
 | JavaScript Calculator | Interactive calculator built while learning JavaScript fundamentals. | [Open](https://wendyle18.github.io/First-JS/) |
 | EES Login Interface | Student login interface and front-end layout exercise. | [Open](https://wendyle18.github.io/feature-A/) |
 | SysGuard Dashboard | Support ticketing and system-monitoring dashboard layout. | [Open](https://wendyle18.github.io/Basic-Ticketing-Look/) |
+| Project | Description | Link |
+|---------|-------------|------|
+| **Resume Website** | My personal resume built in HTML/CSS | [View Project](https://wendyle18.github.io/resume/) |
+| **Legendary Calculator** | Popular JavaScript calculator project for students learning web development | [View Project](https://wendyle18.github.io/First-JS/) |
+| **Student Login Page** | Login page feature project for students | [View Project](https://wendyle18.github.io/feature-A/) |
+| **Basic Ticketing Layout** | Simple ticketing page layout | [View Project](https://wendyle18.github.io/Basic-Ticketing-Look/) |
+---
 
 </details>
 
