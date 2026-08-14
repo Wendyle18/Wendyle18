@@ -50,6 +50,8 @@ Here are some of my projects, showcasing my front-end skills and passion for web
 
 | Project | Description | Link |
 |---------|-------------|------|
+| **Preorder Campaign Widgets** | Shopify preorder pricing and campaign widgets with variant-aware behavior and responsive theme integration | [Read Case Study](https://www.wendylechristianseno.com/case-studies/preorder-campaign-widgets/) |
+| **Essential Apps Support Guide v2** | Browser-based support dashboard for app guides, triage workflows, reusable snippets, and engineering handoffs | [Read Case Study](https://www.wendylechristianseno.com/case-studies/essential-apps-support-guide/) |
 | **Resume Website** | My personal resume built in HTML/CSS | [View Project](https://wendyle18.github.io/resume/) |
 | **Legendary Calculator** | Popular JavaScript calculator project for students learning web development | [View Project](https://wendyle18.github.io/First-JS/) |
 | **Student Login Page** | Login page feature project for students | [View Project](https://wendyle18.github.io/feature-A/) |
