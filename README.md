@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm <strong>Wendyle Christian Seno</strong></h1>
 
 <p align="center">
-  UGC Customization Developer • Subject Matter Expert • SEO Specialist • Technical Support  
+  SaaS Technical Support Engineer | Shopify and e-commerce troubleshooting | API, HTML, CSS and JavaScript | Remote — Philippines  
   <br/>
   <em>Focused on clean UI, customization, and building seamless user experiences.</em>
   <br/>
